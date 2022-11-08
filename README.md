@@ -1,2 +1,2 @@
 # DIO-projects
-Repositório criado para postar os projetos realizados na DIO
+- Repositório criado para postar os exercícios e projetos realizados na DIO.
