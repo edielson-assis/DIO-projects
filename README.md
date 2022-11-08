@@ -1,10 +1,10 @@
 # Bootcamp Carrefour
 
-# Sobre os exercícios
+## Sobre os exercícios
 
-Desafios realizados durante o bootcamp Carrefour. A finalidade dos exercícios é provar que a linguagem não importa e que o mesmo exercício pode ser replicado em várias linguagens.
+Aqui estão os desafios realizados durante o bootcamp Carrefour em parceria com a DIO. A finalidade dos exercícios é provar que a linguagem não importa e que o mesmo exercício pode ser replicado em várias linguagens diferentes.
 
-## Liguagens utilizadas
+## Linguagens utilizadas
 
 - Java
 - C#
